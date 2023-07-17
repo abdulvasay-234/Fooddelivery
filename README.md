@@ -1,2 +1,2 @@
-# Fooddelivery
-Food Delivery Time Prediction using Regression Models
+# Food Delivery
+Food Delivery Time Prediction Using Regression Models
