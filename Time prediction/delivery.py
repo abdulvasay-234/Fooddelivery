@@ -10,3 +10,5 @@ warnings.filterwarnings('ignore')
 df = pd.read_csv("food_delivery.csv", encoding='latin1')
 
 df.head()
+
+df.tail()
